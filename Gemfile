@@ -1,4 +1,5 @@
-source 'https://rubygems.org'
+# Changed from https to http because of SSL certification error: http://stackoverflow.com/questions/10246023/bundle-install-fails-with-ssl-certificate-verification-error
+source 'http://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
